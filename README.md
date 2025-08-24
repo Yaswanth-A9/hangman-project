@@ -19,4 +19,4 @@ It’s a fun project to practice loops, conditionals, and string manipulation.
 - Jupyter Notebook  
   *(install via `pip install notebook` if you don't have it)*
 
-## Sample Output
+
